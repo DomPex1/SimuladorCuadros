@@ -46,6 +46,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BLL\CarpinteroBLL.cs" />
+    <Compile Include="Entidades\Carpinteros.cs" />
+    <Compile Include="Entidades\Cuadros.cs" />
+    <Compile Include="Entidades\Paquetes.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
